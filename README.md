@@ -1,18 +1,18 @@
-<!-- ========================================================== -->
-<!--                     HERO SECTION                           -->
-<!-- ========================================================== -->
+<!-- ========================================================= -->
+<!--                  DEEPANSHU.DEV v1.0                       -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Deepanshu.dev"/>
+<img src="./assets/hero.svg" width="100%" alt="Deepanshu Mandhyan"/>
 
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00E5A8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Scalable+Software;Java+•+Spring+Boot+•+React;Learning+Cloud+•+System+Design;Turning+Ideas+Into+Products"
-/>
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&center=true&vCenter=true&width=900&color=00E5A8&lines=Building+Software+That+Solves+Problems.;Java+%7C+Spring+Boot+%7C+React.;Designing+Scalable+Backend+Systems.;Crafting+Modern+Frontend+Experiences.;Learning+Cloud+%26+Distributed+Systems.;Welcome+to+my+Developer+Workspace."
+alt="Typing Animation"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/deepanshu-mandy">
 <img src="https://img.shields.io/badge/GitHub-deepanshu--mandy-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -22,7 +22,7 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=2
 <img src="https://img.shields.io/badge/LinkedIn-Deepanshu%20Mandhyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=deepanshu-mandy&style=for-the-badge&color=00E5A8"/>
+<img src="https://komarev.com/ghpvc/?username=deepanshu-mandy&style=for-the-badge&color=00E5A8" />
 
 </div>
 
@@ -32,17 +32,17 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=2
 
 $ boot developer-session
 
-> Authenticating...
-
-> Loading workspace...
+> Initializing workspace...
 
 > Loading projects...
 
-> Initializing Java Runtime...
+> Starting Java Runtime...
 
-> Starting Spring Boot Environment...
+> Starting Spring Boot...
 
-✔ Developer session started successfully.
+> Loading React Environment...
+
+✔ Developer session initialized successfully.
 
 ```
 
@@ -58,29 +58,19 @@ role: Full Stack Developer
 education:
   - B.E. Computer Science Engineering
 
-backend:
-  - Java
-  - Spring Boot
+focus:
+  - Backend Engineering
+  - Frontend Development
   - REST APIs
-
-frontend:
-  - React
-  - JavaScript
-  - HTML
-  - CSS
-
-database:
-  - MySQL
-  - PostgreSQL
+  - System Design
 
 currently_learning:
   - Docker
   - AWS
   - Distributed Systems
-  - Microservices
 
 philosophy:
-  Build software that people can trust.
+  Build software that solves real-world problems.
 ```
 
 ---
