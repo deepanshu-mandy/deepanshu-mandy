@@ -1,215 +1,177 @@
-<h1 align="center">
-Hi 👋, I'm Deepanshu Mandhyan
-</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Backend Developer | Java Enthusiast | Full Stack Developer | Problem Solver
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Deepanshu Mandhyan
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Backend+Engineer;Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;Problem+Solver;Building+Scalable+Systems;Always+Learning+Something+New"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+---
+
+# 💻 Initializing Developer Profile...
+
+```bash
+$ boot DeepanshuOS
+
+██████████████████████████████████████ 100%
+
+Loading Profile...
+
+✔ Java Environment
+
+✔ Spring Boot Modules
+
+✔ React Components
+
+✔ Database Connections
+
+✔ REST APIs
+
+✔ System Design
+
+✔ Problem Solving Engine
+
+Status : READY 🚀
+```
+
+---
+
+# 👨‍💻 whoami
+
+```yaml
+Name: Deepanshu Mandhyan
+
+Role:
+  Full Stack Engineer
+
+Education:
+  Final Year B.E. Computer Science
+  Chandigarh University
+
+Location:
+  India 🇮🇳
+
+Languages:
+  Java
+  JavaScript
+  SQL
+  C++
+
+Interests:
+  Backend Development
+  Distributed Systems
+  Cloud Computing
+  AI
+  System Design
+
+Current Status:
+  Building projects.
+  Solving DSA.
+  Preparing for Software Engineering roles.
+```
+
+---
+
+# ⚡ Engineering Philosophy
+
+```java
+public class Engineer {
+
+    public static void main(String[] args) {
+
+        while(alive){
+
+            Learn();
+
+            Build();
+
+            Break();
+
+            Debug();
+
+            Improve();
+
+            Repeat();
+
+        }
+
+    }
+
+}
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Final+Year+Computer+Science+Student;Java+%7C+Spring+Boot+Developer;React+%7C+MySQL+%7C+PostgreSQL;Learning+System+Design+%26+Cloud;Always+Building+Something+New+🚀" />
-</p>
 
----
-
-## 🚀 About Me
-
-🎓 Final Year B.E. Computer Science Student at Chandigarh University
-
-💻 Passionate about Backend Development and scalable systems.
-
-🌱 Currently learning
-
-- Spring Security
-- Microservices
-- Redis
-- Docker
-- AWS
-- System Design
-
-💬 Ask me about
-
-- Java
-- Spring Boot
-- React
-- SQL
-- REST APIs
-- DSA
-
-⚡ Fun Fact
-
-> I enjoy solving complex backend problems more than designing the frontend 😄
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/deepanshu-mandhyan/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="YOUR_GMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:deepanshumandhyan@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 <a href="YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=devto"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,tailwind,mysql,postgres,redis,git,github,docker,aws,maven,vscode,idea,postman"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 💡 A Developer's Mindset
 
-### 🛒 ApnaDukaan
-> Full Stack E-Commerce Platform
-
-- React
-- Spring Boot
-- MySQL
-- JWT Authentication
+> "Great software isn't built by writing more code. It's built by writing the right code."
 
 ---
 
-### 🌍 EcoTrack
+# ⚙️ Current Mission
 
-Carbon Footprint Dashboard
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- React
-- REST APIs
-- Analytics Dashboard
+🚀 Mission 2026
 
----
+[██████████████░░░░░░░░░░░░░] 58%
 
-### 🧠 Digital Mental Health System
-
-AI-assisted Health Monitoring
-
-- ESP32
-- Sensors
-- Machine Learning
-- IoT
-
----
-
-### 🔄 SyncForge
-
-Offline First Data Synchronization System
-
-- Spring Boot
-- Local Storage
-- Sync Engine
-- Conflict Resolution
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepanshu-mandy&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-mandy&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
----
-
-## 🐍 Snake Eating Contributions
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-
----
-
-## 📚 Currently Working On
-
-✅ Microservices
-
-✅ Spring Security
-
-✅ Docker
-
-✅ Kubernetes
-
-✅ AWS
-
-✅ Redis
-
-✅ System Design
-
----
-
-## 🎯 2026 Goals
-
-✔ 700+ LeetCode Problems
-
-✔ Open Source Contributions
+✔ Master Spring Boot
 
 ✔ Crack SDE Internship
 
-✔ Build Scalable Backend Projects
+✔ Build Production Projects
 
-✔ Master Cloud Technologies
+✔ Learn Microservices
 
----
+✔ Learn Kubernetes
 
-## 💡 Quote
+✔ Learn AWS
 
-> "Consistency beats intensity."
+✔ Contribute to Open Source
 
----
-
-## 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### ⭐ Thanks for stopping by! Scroll down to explore my projects, skills, and GitHub journey.
 
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
