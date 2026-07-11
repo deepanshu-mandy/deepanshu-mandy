@@ -1,177 +1,69 @@
+````html
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Deepanshu Mandhyan
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:00FF9C&text=Deepanshu%20Mandhyan&fontColor=FFFFFF&fontSize=42&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Backend+Engineer;Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;Problem+Solver;Building+Scalable+Systems;Always+Learning+Something+New"/>
+<p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Products+That+Scale;Always+Learning.+Always+Shipping."/>
 
-</div>
+</p>
 
----
+<p>
 
-# 💻 Initializing Developer Profile...
+<a href="https://github.com/deepanshu-mandy">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=0F172A&labelColor=00FF9C"/>
+</a>
 
-```bash
-$ boot DeepanshuOS
-
-██████████████████████████████████████ 100%
-
-Loading Profile...
-
-✔ Java Environment
-
-✔ Spring Boot Modules
-
-✔ React Components
-
-✔ Database Connections
-
-✔ REST APIs
-
-✔ System Design
-
-✔ Problem Solving Engine
-
-Status : READY 🚀
-```
-
----
-
-# 👨‍💻 whoami
-
-```yaml
-Name: Deepanshu Mandhyan
-
-Role:
-  Full Stack Engineer
-
-Education:
-  Final Year B.E. Computer Science
-  Chandigarh University
-
-Location:
-  India 🇮🇳
-
-Languages:
-  Java
-  JavaScript
-  SQL
-  C++
-
-Interests:
-  Backend Development
-  Distributed Systems
-  Cloud Computing
-  AI
-  System Design
-
-Current Status:
-  Building projects.
-  Solving DSA.
-  Preparing for Software Engineering roles.
-```
-
----
-
-# ⚡ Engineering Philosophy
-
-```java
-public class Engineer {
-
-    public static void main(String[] args) {
-
-        while(alive){
-
-            Learn();
-
-            Build();
-
-            Break();
-
-            Debug();
-
-            Improve();
-
-            Repeat();
-
-        }
-
-    }
-
-}
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/deepanshu-mandhyan/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://linkedin.com/in/deepanshu-mandhyan">
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:deepanshumandhyan@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
 
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
-
-# 💡 A Developer's Mindset
-
-> "Great software isn't built by writing more code. It's built by writing the right code."
-
----
-
-# ⚙️ Current Mission
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+deepanshu@github:~$ whoami
 
-🚀 Mission 2026
+Deepanshu Mandhyan
 
-[██████████████░░░░░░░░░░░░░] 58%
+Full Stack Developer
 
-✔ Master Spring Boot
+I build modern web applications from
+database to deployment.
 
-✔ Crack SDE Internship
+Focused on writing software that is
+simple, scalable and reliable.
+````
 
-✔ Build Production Projects
+---
 
-✔ Learn Microservices
+```text
+deepanshu@github:~$ status
 
-✔ Learn Kubernetes
+● Building production-ready applications
 
-✔ Learn AWS
+● Exploring distributed systems
 
-✔ Contribute to Open Source
+● Learning cloud-native development
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+● Solving DSA consistently
+
+Status: AVAILABLE_FOR_NEW_OPPORTUNITIES
 ```
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for stopping by! Scroll down to explore my projects, skills, and GitHub journey.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+```
+```
