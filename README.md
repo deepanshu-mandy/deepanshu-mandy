@@ -6,7 +6,6 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Deepanshu Hero"/>
 
-
 <br><br>
 
 <img
