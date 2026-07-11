@@ -1,8 +1,46 @@
-# Deepanshu Mandhyan
+<!-- ====================================================== -->
+<!--                       HERO SECTION                     -->
+<!-- ====================================================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Applications;Learning+Cloud+%26+System+Design" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B0F19,100:00C896&text=Deepanshu%20Mandhyan&fontColor=FFFFFF&fontSize=46&animation=fadeIn&fontAlignY=38"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&duration=3000&center=true&vCenter=true&width=900&color=00C896&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Products+That+Scale;Always+Learning.+Always+Shipping."/>
+
+<br><br>
+
+<a href="https://github.com/deepanshu-mandy">
+<img src="https://img.shields.io/github/followers/deepanshu-mandy?style=for-the-badge&logo=github&label=Follow&color=0B0F19"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deepanshu-mandhyan/">
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=deepanshu-mandy&style=for-the-badge&color=00C896"/>
+
+</div>
+
+---
+
+```text
+deepanshu@workspace:~$ boot
+
+Initializing workspace...
+
+██████████████████████████████ 100%
+
+✓ Java Runtime
+✓ Spring Boot
+✓ React Environment
+✓ Database Connected
+✓ Git Repository Synced
+
+Workspace Ready.
+```
 
 ---
 
@@ -10,64 +48,19 @@
 deepanshu@workspace:~$ whoami
 
 Deepanshu Mandhyan
+
 Full Stack Developer
 
-Building products from database to deployment.
+I enjoy building complete products—
+from designing REST APIs and databases
+to crafting responsive frontend experiences.
+
+Currently exploring scalable architectures,
+cloud technologies, and distributed systems.
 ```
-
-## Philosophy
-
-> Simplicity scales.
->
-> Build. Measure. Improve. Repeat.
-
-## Stack
-
-- Java
-- Spring Boot
-- React
-- MySQL
-- PostgreSQL
-- Git
-- Docker (Learning)
-- AWS (Learning)
-
-## Featured Projects
-
-### SyncForge
-Offline-first synchronization engine.
-
-### ApnaDukaan
-Full-stack e-commerce platform.
-
-### EcoTrack
-Carbon footprint analytics dashboard.
-
-### Digital Mental Health System
-IoT + software monitoring platform.
-
-## GitHub Stats
-
-Replace `YOUR_USERNAME` below with `deepanshu-mandy`.
-
-```md
-![Stats](https://github-readme-stats.vercel.app/api?username=deepanshu-mandy&show_icons=true&theme=github_dark&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=deepanshu-mandy&theme=github-dark-blue&hide_border=true)
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-mandy&theme=github-dark)
-
-![Snake](https://raw.githubusercontent.com/deepanshu-mandy/deepanshu-mandy/output/github-contribution-grid-snake-dark.svg)
-```
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/deepanshu-mandhyan/
 
 ---
 
-```text
-End of file.
+> **"Good software isn't just code that works. It's code people can understand, maintain, and trust."**
 
-See you in the next commit.
-```
+---
