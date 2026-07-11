@@ -7,18 +7,18 @@
   <img src="https://shields.io" />
 </p>
 
-<hr />
+<br />
 
 <!-- CYBERPUNK PROFILE GRID USING HTML TABLE -->
 <table align="center" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h3>⚡ OVERVIEW_</h3>
       <p>🤖 <b>Role:</b> Creative Developer & UI/UX enthusiast.</p>
       <p>🚀 <b>Current Mission:</b> Creating high-performance web applications and sleek user interfaces.</p>
       <p>💡 <b>Philosophy:</b> Code is art, and every pixel should tell an interactive story.</p>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="35%" align="center" valign="middle">
       <!-- VISITOR COUNTER -->
       <img src="https://glitch.me" alt="Visitor Count" />
       <p><i>Profile Views</i></p>
@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-<hr />
+<br />
 
 <!-- DYNAMIC & ANIMATED TECH STACK -->
 ### 🛠️ TECH_STACK_
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<hr />
+<br />
 
 <!-- GAMIFIED METRIC DASHBOARD -->
 ### 📊 SYSTEM_METRICS_
@@ -54,7 +54,7 @@
   <img src="https://herokuapp.com" alt="GitHub Streak" width="48%" />
 </div>
 
-<hr />
+<br />
 
 <!-- THE HANGOUT / CONNECT FOOTER -->
 ### 🌐 NETWORK_CONNECT_
