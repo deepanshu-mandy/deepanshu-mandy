@@ -1,1 +1,196 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320">
+      <stop offset="0%" stop-color="#0B0F19">
+        <animate attributeName="stop-color"
+                 values="#0B0F19;#121826;#0B0F19"
+                 dur="8s"
+                 repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="100%" stop-color="#111827">
+        <animate attributeName="stop-color"
+                 values="#111827;#1F2937;#111827"
+                 dur="8s"
+                 repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#00E5A8"/>
+      <stop offset="100%" stop-color="#00FFD1"/>
+    </linearGradient>
+
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+
+  <!-- Grid -->
+
+  <g opacity="0.08">
+
+    <path d="M0 40H1200" stroke="#00E5A8"/>
+    <path d="M0 80H1200" stroke="#00E5A8"/>
+    <path d="M0 120H1200" stroke="#00E5A8"/>
+    <path d="M0 160H1200" stroke="#00E5A8"/>
+    <path d="M0 200H1200" stroke="#00E5A8"/>
+    <path d="M0 240H1200" stroke="#00E5A8"/>
+    <path d="M0 280H1200" stroke="#00E5A8"/>
+
+    <path d="M80 0V320" stroke="#00E5A8"/>
+    <path d="M160 0V320" stroke="#00E5A8"/>
+    <path d="M240 0V320" stroke="#00E5A8"/>
+    <path d="M320 0V320" stroke="#00E5A8"/>
+    <path d="M400 0V320" stroke="#00E5A8"/>
+    <path d="M480 0V320" stroke="#00E5A8"/>
+    <path d="M560 0V320" stroke="#00E5A8"/>
+    <path d="M640 0V320" stroke="#00E5A8"/>
+    <path d="M720 0V320" stroke="#00E5A8"/>
+    <path d="M800 0V320" stroke="#00E5A8"/>
+    <path d="M880 0V320" stroke="#00E5A8"/>
+    <path d="M960 0V320" stroke="#00E5A8"/>
+    <path d="M1040 0V320" stroke="#00E5A8"/>
+    <path d="M1120 0V320" stroke="#00E5A8"/>
+
+  </g>
+
+  <!-- Animated Line -->
+
+  <line x1="0" y1="315" x2="1200" y2="315"
+        stroke="url(#accent)"
+        stroke-width="3">
+
+      <animate attributeName="stroke-dasharray"
+               values="0,1200;1200,0"
+               dur="3s"
+               repeatCount="indefinite"/>
+
+  </line>
+
+  <!-- Main Title -->
+
+  <text
+      x="70"
+      y="110"
+      fill="white"
+      font-size="42"
+      font-family="JetBrains Mono"
+      font-weight="700">
+
+      DEEPANSHU.DEV
+
+  </text>
+
+  <text
+      x="70"
+      y="155"
+      fill="#00E5A8"
+      font-size="22"
+      font-family="JetBrains Mono">
+
+      FULL STACK ENGINEER
+
+  </text>
+
+  <text
+      x="70"
+      y="205"
+      fill="#B8C1CC"
+      font-size="18"
+      font-family="JetBrains Mono">
+
+      Build • Scale • Ship
+
+  </text>
+
+  <!-- Terminal -->
+
+  <rect
+      x="690"
+      y="55"
+      width="420"
+      height="190"
+      rx="12"
+      fill="#0F172A"
+      stroke="#00E5A8"
+      stroke-width="1"/>
+
+  <circle cx="715" cy="78" r="5" fill="#FF5F56"/>
+  <circle cx="733" cy="78" r="5" fill="#FFBD2E"/>
+  <circle cx="751" cy="78" r="5" fill="#27C93F"/>
+
+  <text
+      x="715"
+      y="120"
+      fill="#00E5A8"
+      font-size="16"
+      font-family="JetBrains Mono">
+
+      deepanshu@workspace:~$
+
+  </text>
+
+  <text
+      x="715"
+      y="150"
+      fill="white"
+      font-size="16"
+      font-family="JetBrains Mono">
+
+      status
+
+  </text>
+
+  <text
+      x="715"
+      y="180"
+      fill="#00E5A8"
+      font-size="15"
+      font-family="JetBrains Mono">
+
+      ✔ Java
+
+  </text>
+
+  <text
+      x="715"
+      y="205"
+      fill="#00E5A8"
+      font-size="15"
+      font-family="JetBrains Mono">
+
+      ✔ Spring Boot
+
+  </text>
+
+  <text
+      x="715"
+      y="230"
+      fill="#00E5A8"
+      font-size="15"
+      font-family="JetBrains Mono">
+
+      ✔ React
+
+  </text>
+
+  <!-- Blinking Cursor -->
+
+  <rect
+      x="800"
+      y="145"
+      width="8"
+      height="18"
+      fill="#00E5A8">
+
+      <animate
+          attributeName="opacity"
+          values="1;0;1"
+          dur="1s"
+          repeatCount="indefinite"/>
+
+  </rect>
+
+</svg>
