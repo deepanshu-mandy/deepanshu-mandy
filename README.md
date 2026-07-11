@@ -64,3 +64,158 @@ cloud technologies, and distributed systems.
 > **"Good software isn't just code that works. It's code people can understand, maintain, and trust."**
 
 ---
+<!-- ====================================================== -->
+<!--                  DEVELOPER WORKSPACE                   -->
+<!-- ====================================================== -->
+
+<h2>
+<img src="https://img.icons8.com/fluency/28/folder-invoices.png" width="24"/>
+ Workspace
+</h2>
+
+```text
+📦 workspace
+│
+├── about.md
+├── tech-stack.json
+├── currently-building.md
+├── philosophy.txt
+└── roadmap.md
+```
+
+---
+
+## 📄 about.md
+
+```md
+# Deepanshu Mandhyan
+
+Full Stack Developer.
+
+I enjoy building complete software products—
+from designing scalable backend services to
+creating responsive frontend experiences.
+
+My focus is writing clean, maintainable code,
+building reliable systems, and continuously
+improving as an engineer.
+
+Outside of coding, you'll usually find me
+exploring system design,
+solving algorithmic problems,
+or learning technologies that make software
+faster, simpler, and more scalable.
+```
+
+---
+
+## 📄 tech-stack.json
+
+```json
+{
+  "languages": [
+    "Java",
+    "JavaScript",
+    "SQL",
+    "C++"
+  ],
+
+  "frontend": [
+    "React",
+    "HTML",
+    "CSS",
+    "Tailwind CSS"
+  ],
+
+  "backend": [
+    "Spring Boot",
+    "REST APIs"
+  ],
+
+  "database": [
+    "MySQL",
+    "PostgreSQL"
+  ],
+
+  "tools": [
+    "Git",
+    "GitHub",
+    "Postman",
+    "IntelliJ IDEA",
+    "VS Code"
+  ],
+
+  "currently_learning": [
+    "Docker",
+    "Redis",
+    "AWS",
+    "Microservices",
+    "System Design"
+  ]
+}
+```
+
+---
+
+## 📄 currently-building.md
+
+```text
+🟢 Current Focus
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Building production-ready projects
+
+✓ Strengthening Data Structures & Algorithms
+
+✓ Exploring scalable backend architectures
+
+✓ Learning Docker & AWS
+
+✓ Improving software design skills
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## 📄 philosophy.txt
+
+```text
+Software is more than writing code.
+
+Write code that your future self
+will thank you for.
+
+Keep it simple.
+
+Measure before optimizing.
+
+Learn continuously.
+
+Build things that solve real problems.
+```
+
+---
+
+## 📄 roadmap.md
+
+```text
+2026 Roadmap
+
+[████████░░] Master Spring Boot
+
+[███████░░░] Advanced React
+
+[██████░░░░] Docker
+
+[█████░░░░░] AWS
+
+[████░░░░░░] Kubernetes
+
+[███████░░░] System Design
+
+Status:
+
+In Progress...
+```
