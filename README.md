@@ -1,71 +1,86 @@
-<!-- ========================================================= -->
-<!--                    DEEPANSHU.DEV                           -->
-<!-- ========================================================= -->
+<!-- ========================================================== -->
+<!--                     HERO SECTION                           -->
+<!-- ========================================================== -->
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Deepanshu Hero"/>
+<img src="./assets/hero.svg" width="100%" alt="Deepanshu.dev"/>
 
-<br><br>
+<br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00E5A8&lines=Full+Stack+Developer;Java+•+Spring+Boot+•+React;Building+Scalable+Applications;Learning+Cloud+%26+Distributed+Systems;Always+Building.+Always+Learning."
-alt="Typing SVG"/>
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00E5A8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Scalable+Software;Java+•+Spring+Boot+•+React;Learning+Cloud+•+System+Design;Turning+Ideas+Into+Products"
+/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/deepanshu-mandy">
-<img src="https://img.shields.io/github/followers/deepanshu-mandy?style=for-the-badge&logo=github&label=Follow&color=181717"/>
+<img src="https://img.shields.io/badge/GitHub-deepanshu--mandy-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/deepanshu-mandhyan/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Deepanshu%20Mandhyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=deepanshu-mandy&style=for-the-badge&color=00E5A8"/>
 
 </div>
 
 ---
 
-```text
-deepanshu@workspace:~$ boot
+## ```console
 
-Initializing Developer Session...
+$ boot developer-session
 
-██████████████████████████████ 100%
+> Authenticating...
 
-✓ Java Runtime Loaded
+> Loading workspace...
 
-✓ Spring Boot Initialized
+> Loading projects...
 
-✓ React Environment Ready
+> Initializing Java Runtime...
 
-✓ Database Connected
+> Starting Spring Boot Environment...
 
-✓ Git Repository Synced
+✔ Developer session started successfully.
 
-Workspace Ready.
 ```
 
 ---
 
-```text
-deepanshu@workspace:~$ whoami
+## developer.yml
 
-Deepanshu Mandhyan
+```yaml
+name: Deepanshu Mandhyan
 
-Full Stack Developer
+role: Full Stack Developer
 
-I build complete software products —
-from designing scalable backend APIs
-to creating modern frontend experiences.
+education:
+  - B.E. Computer Science Engineering
 
-Currently exploring Cloud,
-Distributed Systems,
-and System Design.
+backend:
+  - Java
+  - Spring Boot
+  - REST APIs
+
+frontend:
+  - React
+  - JavaScript
+  - HTML
+  - CSS
+
+database:
+  - MySQL
+  - PostgreSQL
+
+currently_learning:
+  - Docker
+  - AWS
+  - Distributed Systems
+  - Microservices
+
+philosophy:
+  Build software that people can trust.
 ```
 
 ---
