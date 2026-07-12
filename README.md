@@ -1,31 +1,6 @@
-<!-- ALL-IN-ONE CUSTOMIZED HEADER BANNER -->
-<div align="center">
-  
-  <!-- 1. NAME & TITLE -->
-  <h1>Hi, I'm <g-emoji class="g-emoji" alias="wave">👋</g-emoji> Deepanshu Mandy</h1>
-  <p><strong>Full-Stack Developer & Tech Enthusiast</strong></p>
-
-  <!-- 2. ANIMATED TYPING COMPONENT -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=450&lines=I+build+web+applications.;I+build+API+integrations.;I+build+automation+tools.;I+build+clean+UI/UX." alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- 3. SOCIAL MEDIA BADGES -->
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/YOUR_USERNAME" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" height="28"/>
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
-  </a>
-
-  <br/><br/>
+<p align="center">
+  <img src="banner.png" alt="Deepanshu Mandhyan - Full Stack Developer Banner" width="100%" />
+</p>
 
   <!-- 4. CORE TECH STACK PILLS -->
   <div>
