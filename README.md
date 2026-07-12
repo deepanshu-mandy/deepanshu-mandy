@@ -39,6 +39,7 @@ $ cat active_status.log
 "Turning complex problems into simple, elegant code..."
 
 $ debug_
+```
 
 ---
 
