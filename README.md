@@ -1,52 +1,50 @@
-<!-- TITLE & ANIMATED TYPING INTRO -->
-<h1 align="center">
+<!-- TITLE SECTION: CUSTOMIZED NAME -->
+<h1 align="center">Hi, I'm [NAME] 👋</h1>
+
+<!-- ANIMATED TYPING SECTION: WHAT I BUILD -->
+<h3 align="center">
+  I'm a Developer 🚀
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&vCenter=true&random=false&width=500&lines=Hi+there!+I'm+a+Developer;I+love+building+Web+Apps;Welcome+to+my+profile!+👋" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=I+build+web+applications.;I+build+API+integrations.;I+build+automation+tools.;I+build+clean+UI/UX." alt="Typing SVG" />
   </a>
-</h1>
+</h3>
 
 <p align="center">
-  🚀 Welcome to my digital space! I build modern applications and open-source projects.
+  Welcome to my digital garden! I love turning complex problems into simple, elegant code.
 </p>
 
 ---
 
-<!-- CONNECT WITH ME SECTION -->
-<h3 align="center">🌐 Connect With Me</h3>
-<p align="center">
+<!-- ABOUT & CONNECT SECTIONS -->
+## 👤 About Me
+- 🌱 I’m currently learning **Advanced React Patterns** and **System Design**.
+- 💬 Ask me about **Frontend Performance**.
+
+## 🤝 Connect With Me
+<p align="left">
   <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-<!-- DYNAMIC STATS & METRICS SECTION -->
-<h3 align="center">📊 My Live GitHub Stats</h3>
+<!-- 🐍 THE CONTRIBUTIONS SNAKE SECTION 🐍 -->
+## 🏆 My Contribution Graph
 
-<p align="center">
-  <!-- Dynamic Activity Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-mandy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  
-  <!-- Live Language Usage Animated Donut Chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-mandy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Overall Profile Metrics Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-mandy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats Card" width="85%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepanshu-mandy/deepanshu-mandy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanshu-mandy/deepanshu-mandy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deepanshu-mandy/deepanshu-mandy/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-<!-- ANIMATED CONTRIBUTIONS GRAPH -->
-<h3 align="center">📈 Activity Graph</h3>
+<!-- 📈 THE CONSTANT ACTIVITY GRAPH -->
+## 📈 Weekly Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-mandy&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Activity Graph" width="100%" />
@@ -54,6 +52,9 @@
 
 ---
 
+<!-- THE REST OF YOUR STATS -->
+## 📊 GitHub Analytics
 <p align="center">
-  <i>⚡ Fun Fact: This page updates automatically with my latest commits!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-mandy&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-mandy&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
