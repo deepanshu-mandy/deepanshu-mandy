@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/deepanshu-mandy/count.svg" alt="Profile Views" width="220px" />
+  <img src="https://komarev.com/ghpvc/?username=deepanshu-mandy&label=SYSTEM+ACCESSES&color=39FF14&style=for-the-badge" alt="Profile Views" />
 </p>
   
   <!-- 5. BIO INTRO -->
