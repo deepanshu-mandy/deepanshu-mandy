@@ -4,18 +4,18 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/deepanshu-mandhyan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN" />
   </a>
   <a href="mailto:deepanshumandhyan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL" />
   </a>
   <a href="https://drive.google.com/file/d/1ny7Fj_Mef_L8BIAEniCtocTP2WPzJX2a/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="RESUME" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepanshu-mandy&label=SYSTEM+ACCESSES&color=39FF14&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=deepanshu-mandy&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" alt="Profile Views" />
 </p>
   
   <!-- 5. BIO INTRO -->
