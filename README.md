@@ -1,10 +1,7 @@
-<!-- 1. HEADER SECTION (BANNER) -->
+<!-- 1. CUSTOM TOP HEADER SECTION -->
 <div align="right">
-  <!-- 
-    Replace 'YOUR_USERNAME' with your GitHub username. 
-    This automatically renders a dynamic tech stack banner based on your most-used languages.
-  -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_USERNAME&theme=dark&show_owner=true" width="100%" alt="Tech Stack Banner Layout" />
+  <h1>YOUR NAME OR CUSTOM TITLE HERE 🚀</h1>
+  <h3>Subheading / Short Catchy Tagline Goes Here</h3>
 </div>
 
 <!-- 2. STATUS & VISITOR COUNTER SECTION (Right Aligned) -->
@@ -31,10 +28,19 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=444444" alt="Profile Views" />
 </div>
 
+<!-- 3. MAIN VISUAL BANNER -->
+<div align="right">
+  <!-- 
+    Replace 'YOUR_USERNAME' with your GitHub username. 
+    This automatically renders a dynamic tech stack banner based on your most-used languages.
+  -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_USERNAME&theme=dark&show_owner=true" width="100%" alt="Tech Stack Banner Layout" />
+</div>
+
 ---
 
-<!-- 3. INTRODUCTORY SECTION -->
-# Hey there! I'm [Your Name] 👋
+<!-- 4. INTRODUCTORY SECTION -->
+## About Me 👋
 
 I am a Full-Stack Software Engineer focused on constructing high-throughput web applications, working extensively across JavaScript/TypeScript frameworks, and implementing intelligent AI workflows.
 
@@ -44,7 +50,7 @@ I am a Full-Stack Software Engineer focused on constructing high-throughput web 
 
 ---
 
-<!-- 4. TECH STACK DIRECTORY -->
+<!-- 5. TECH STACK DIRECTORY -->
 ### 🛠️ Core Technologies & Competencies
 
 | Category | Stack Components |
@@ -56,7 +62,7 @@ I am a Full-Stack Software Engineer focused on constructing high-throughput web 
 
 ---
 
-<!-- 5. REPOSITORY METRICS -->
+<!-- 6. REPOSITORY METRICS -->
 ### 📊 Performance Metrics
 
 <p align="center">
