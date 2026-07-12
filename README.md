@@ -1,4 +1,4 @@
-<img width="135" height="48" alt="image" src="https://github.com/user-attachments/assets/13c65407-660c-406a-a84c-5177667367d6" /><p align="center">
+<p align="center">
   <img src="banner.png" alt="Deepanshu Mandhyan - Full Stack Developer Banner" width="100%" />
 </p>
 
