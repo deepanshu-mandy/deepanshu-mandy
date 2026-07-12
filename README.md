@@ -89,9 +89,14 @@
 
 ---
 
-<!-- THE REST OF YOUR STATS -->
+---
+
+<!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-mandy&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats Card" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-mandy&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-mandy&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-mandy&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="150" />
 </p>
+
+---
