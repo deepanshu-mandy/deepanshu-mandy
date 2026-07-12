@@ -1,4 +1,4 @@
-<p align="center">
+<img width="135" height="48" alt="image" src="https://github.com/user-attachments/assets/13c65407-660c-406a-a84c-5177667367d6" /><p align="center">
   <img src="banner.png" alt="Deepanshu Mandhyan - Full Stack Developer Banner" width="100%" />
 </p>
 
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepanshu-mandy&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/deepanshu-mandy/count.svg" alt="Profile Views" width="220px" />
 </p>
   
   <!-- 5. BIO INTRO -->
