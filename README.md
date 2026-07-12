@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 <!-- 🐍 THE CONTRIBUTIONS SNAKE SECTION 🐍 -->
-## 🏆 My Contribution Graph
+## 🏆 **My Contribution Graph**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepanshu-mandy/deepanshu-mandy/output/github-contribution-grid-snake-dark.svg">
@@ -86,10 +86,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-mandy&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
-
----
-
----
 
 ---
 
