@@ -1,71 +1,37 @@
-<!-- 1. CUSTOM TOP HEADER SECTION -->
-<div align="right">
-  <h1>YOUR NAME OR CUSTOM TITLE HERE 🚀</h1>
-  <h3>Subheading / Short Catchy Tagline Goes Here</h3>
-</div>
-
-<!-- 2. STATUS & VISITOR COUNTER SECTION (Right Aligned) -->
-<div align="right">
-  <!-- Clickable Social Badges -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="YOUR_RESUME_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/RESUME-2496ED?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-  </a>
-  
-  <br />
-  
-  <!-- Current Building Project Badge -->
-  <img src="https://img.shields.io/badge/BUILDING-HYREGO-00FFFF?style=for-the-badge&labelColor=444444" alt="Building Hyrego" />
-  
-  <br />
-  
-  <!-- Live Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=444444" alt="Profile Views" />
-</div>
-
-<!-- 3. MAIN VISUAL BANNER -->
-<div align="right">
-  <!-- 
-    Replace 'YOUR_USERNAME' with your GitHub username. 
-    This automatically renders a dynamic tech stack banner based on your most-used languages.
-  -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_USERNAME&theme=dark&show_owner=true" width="100%" alt="Tech Stack Banner Layout" />
-</div>
+# Hi there, I'm [Your Name]! 👋
+### 🚀 [Your Current Role or Passion, e.g., Full-Stack Developer & Open Source Enthusiast]
 
 ---
 
-<!-- 4. INTRODUCTORY SECTION -->
-## About Me 👋
-
-I am a Full-Stack Software Engineer focused on constructing high-throughput web applications, working extensively across JavaScript/TypeScript frameworks, and implementing intelligent AI workflows.
-
-* 🚀 Currently scaling **Hyrego**.
-* 🧠 Heavily invested in Large Language Models (LLMs) and **Retrieval-Augmented Generation (RAG)** systems.
-* 🛠️ Passionate about clean code, architecture, and developer tooling.
+### 👤 About Me
+- 🔭 I’m currently working on **[Project Name or Tech Stack]**
+- 🌱 I’m currently learning **[New Framework, Language, or Tool]**
+- 💬 Ask me about **[Topics you excel at, e.g., React, System Design, Devops]**
+- ⚡ Fun fact: **[Something memorable or non-coding related]**
 
 ---
 
-<!-- 5. TECH STACK DIRECTORY -->
-### 🛠️ Core Technologies & Competencies
-
-| Category | Stack Components |
+### 🛠️ Tech Stack & Tools
+| Area | Technologies |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
-| **Intelligence Layer** | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) `RAG Architecture` ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.JS&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) |
+| **Databases**| ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
 
 ---
 
-<!-- 6. REPOSITORY METRICS -->
-### 📊 Performance Metrics
-
+### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=050505" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=050505" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
