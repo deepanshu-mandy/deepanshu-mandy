@@ -19,12 +19,13 @@
 </p>
   
 <!-- ABOUT ME SECTION -->
-## 👤 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MzYmNscDRqd3B0bWZ6MXBibXNycXg1bXh4cnNyeW80b3B2azJxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="25px"> About Me
+## 👤 About Me
 
-```microdos
-> INITIALIZING DEEPANSHU_MANDHYAN_SESSION...
-> ACCESS GRANTED.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=7CFC00&background=1A1A1A00&width=450&lines=%3E+INITIALIZING+DEEPANSHU_MANDHYAN_SESSION...;%3E+ACCESS+GRANTED.+" alt="Typing SVG" />
+</p>
 
+```json
 {
   "status": 200,
   "identity": "Deepanshu Mandhyan",
@@ -34,13 +35,11 @@
     "runtime_env": "Optimizing digital infrastructure"
   }
 }
-
+```
 $ cat active_status.log
 "Turning complex problems into simple, elegant code..."
 
 $ debug_
-```
-
 ---
 
 <!-- 🐍 THE CONTRIBUTIONS SNAKE SECTION 🐍 -->
