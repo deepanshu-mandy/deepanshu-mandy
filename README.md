@@ -18,28 +18,27 @@
   <img src="https://komarev.com/ghpvc/?username=deepanshu-mandy&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" alt="Profile Views" />
 </p>
   
-  <!-- 5. BIO INTRO -->
-  <p align="center">
-    <i>Welcome to my digital garden! I love turning complex problems into simple, elegant code.</i>
-  </p>
+<!-- ABOUT ME SECTION -->
+## 👤 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MzYmNscDRqd3B0bWZ6MXBibXNycXg1bXh4cnNyeW80b3B2azJxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="25px"> About Me
 
-</div>
----
+```microdos
+> INITIALIZING DEEPANSHU_MANDHYAN_SESSION...
+> ACCESS GRANTED.
 
-<!-- ABOUT & CONNECT SECTIONS -->
-## 👤 About Me
-- 🌱 I’m currently learning **Advanced React Patterns** and **System Design**.
-- 💬 Ask me about **Frontend Performance**.
+{
+  "status": 200,
+  "identity": "Deepanshu Mandhyan",
+  "payload": {
+    "title": "Full Stack Developer",
+    "architecture": ["Frontend Architecture", "Distributed Systems"],
+    "runtime_env": "Optimizing digital infrastructure"
+  }
+}
 
-## 🤝 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+$ cat active_status.log
+"Turning complex problems into simple, elegant code..."
+
+$ debug_
 
 ---
 
