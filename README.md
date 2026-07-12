@@ -1,17 +1,24 @@
 <!-- TITLE SECTION: CUSTOMIZED NAME -->
-<h1 align="center">Hi, I'm [NAME] 👋</h1>
+<h1 align="center">Hi, I'm Deepanshu Mandhyan 👋</h1>
 
-<!-- ANIMATED TYPING SECTION: WHAT I BUILD -->
-<h3 align="center">
-  I'm a Developer 🚀
+<!-- SUBTITLE -->
+<p align="center">
+  <strong>I'm a Developer 🚀</strong>
+</p>
+
+<!-- ANIMATED TYPING SECTION -->
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=I+build+web+applications.;I+build+API+integrations.;I+build+automation+tools.;I+build+clean+UI/UX." alt="Typing SVG" />
   </a>
-</h3>
+</p>
 
+<!-- WELCOME TEXT -->
 <p align="center">
   Welcome to my digital garden! I love turning complex problems into simple, elegant code.
 </p>
+
+---
 
 ---
 
