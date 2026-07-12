@@ -32,15 +32,15 @@
 
 <p align="center">
   <!-- Dynamic Activity Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-mandy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   
   <!-- Live Language Usage Animated Donut Chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-mandy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <!-- Overall Profile Metrics Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats Card" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-mandy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats Card" width="85%" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 <h3 align="center">📈 Activity Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-mandy&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
