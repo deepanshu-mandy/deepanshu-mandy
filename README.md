@@ -97,20 +97,32 @@
 
 ---
 
+<!-- 📈 WEEKLY ACTIVITY GRAPH -->
+## 📈 Weekly Activity Graph
+
+<p align="center">
+  <img
+    src="./profile/activity-graph.svg"
+    alt="Weekly Activity Graph"
+    width="100%"
+  />
+</p>
+
+---
+
 <!-- 📊 GITHUB ANALYTICS -->
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=deepanshu-mandy&show_icons=true&theme=radical&count_private=true"
+    src="./profile/stats.svg"
     alt="GitHub Stats"
+    width="49%"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-mandy&layout=compact&theme=radical&hide=html,css"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
+    width="49%"
   />
 </p>
 
