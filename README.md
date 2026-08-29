@@ -84,18 +84,7 @@
 
 ---
 
-<!-- 📈 WEEKLY ACTIVITY GRAPH -->
-## 📈 Weekly Activity Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-mandy&theme=tokyo-night&bg_color=00000000&hide_border=true"
-    alt="Weekly Activity Graph"
-    width="100%"
-  />
-</p>
-
----
 
 <!-- 📈 WEEKLY ACTIVITY GRAPH -->
 ## 📈 Weekly Activity Graph
